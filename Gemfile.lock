@@ -1,12 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    webrick (1.7.0)
 
 PLATFORMS
   arm64-darwin-21
   x86_64-linux
 
 DEPENDENCIES
+  webrick
 
 BUNDLED WITH
    2.3.22

@@ -1,1 +1,1 @@
-web: ruby -e "while true; end;"
+web: ruby server.rb
